@@ -6,7 +6,7 @@ Uma aplicação de demonstração de cliente que deve ser usado em conjunto com 
 1. Execute:
    `git clone https://github.com/Darthpool9900/next-pi`
 2. Logo após instale todas dependências utilizando `npm install`
-3. Utilize o link [localhost]http://localhost:3000
+3. Utilize o link [localhost](http://localhost:3000)
 
 [!TIP]
 >Em caso de necessidade de troca de portas no next.js pode se alterar em seu `package.json` da seguinte forma:
